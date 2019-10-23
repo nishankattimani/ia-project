@@ -1,0 +1,228 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Source Sans Pro', sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+}
+.header {
+  width:80%;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  margin-top: 10px;
+}
+.menu {
+  display: flex;
+  margin-top: 35px;
+  font-size: 25px;
+}
+.menu_list {
+  margin-left: 20px;
+}
+.menu_list_anchor {
+  color: #333;
+}
+.menu_list_anchor:hover {
+  color: #720312;
+  border-bottom: 2px solid #720312;
+}
+.main_visual_list {
+  width: 100%;
+}
+.main_visual_list img {
+  width: 100%;
+}
+.our_hotel {
+  width:80%;
+  margin: 0px auto;
+  margin-top: 50px;
+}
+.hotel_name {
+  margin: 20px 0px 10px 0px;
+  text-align: center;
+}
+.our_hotel_heading {
+  color: #720312;
+  text-align: center;
+  font-size: 40px;
+}
+.border {
+  width: 200px;
+  margin: 0px auto;
+  border-bottom: 4px solid #720312;
+}
+.welome_images {
+  width: 80%;
+  margin-top: 50px;
+  display: flex;
+}
+.our_hotel_img {
+  display: flex;
+  margin-right: 20px;
+}
+.sub_heading {
+  display: flex;
+  margin-top: 30px;
+  margin-right: 20px;
+  justify-content: space-between;
+}
+.our_hotel_paragraph {
+  font-size: 18px;
+  color: #333;
+  margin-top: 20px;
+  text-align: center;
+  line-height: 25px;
+}
+.brands {
+  width: 80%;
+  margin:0px auto;
+  margin-top: 50px;
+}
+.brands_heading {
+  color: #720312;
+  text-align: center;
+  font-size: 40px;
+}
+.section_div {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+}
+.happenings1, .happenings2{
+  width: 48%;
+}
+.sec1, .sec2 {
+  margin-right: 5%;
+}
+.sec_img {
+  width: 100%;
+}
+.sec_img img {
+  width: 100%;
+}
+.sec_paragraph {
+  color: #333;
+  line-height: 150%;
+  padding: 5px;
+  text-align: center;
+}
+.visit_button {
+  text-align: center;
+  margin-top: 30px;
+}
+.visit_button a {
+  padding: 10px 45px;
+  background-color: #720312;
+  color: white;
+}
+.visit_button a:hover {
+  opacity: 0.8;
+}
+.happenings {
+  width: 80%;
+  margin:0px auto;
+  margin-top: 50px;
+}
+.happenings_heading {
+  color: #720312;
+  text-align: center;
+  font-size: 40px;
+}
+.section_div {
+  margin-top: 50px;
+}
+.happenings1, .happenings2 {
+  margin-top: 20px;
+}
+.exo_img img {
+  width: 100%;
+}
+.exo_paragraph {
+  color: #333;
+  line-height: 150%;
+  padding: 5px;
+  text-align: left;
+  margin-top: 20px;
+}
+.hotel_exotica {
+  margin-top: 25px;
+  color: #333;
+}
+.read_button {
+  margin-top: 30px;
+}
+.read_button a {
+  padding: 10px 30px;
+  background-color: #720312;
+  color: white;
+}
+.read_button a:hover {
+  opacity: 0.8;
+}
+.welcome_taj{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.welcome_taj_sec figure{
+  width: 100%;
+}
+.welcome_taj_sec figure img{
+  width: 100%;
+}
+.welcome_taj_sec{
+  width: 24%;
+}
+.welcome_taj_h2{
+  width: 100%;
+  text-align: center;
+}
+.welcome_taj_h2 a{
+  font-size: 15px;
+  color: black;
+}
+.welcome_taj_h2 a:hover{
+  color: #720312;
+}
+.footer {
+  	background-color: #333;
+    margin-top: 80px;
+}
+.footer_div {
+  width: 80%;
+  margin:0px auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 0px;
+}
+.media1, .media2 {
+  display: flex;
+}
+.ftr_img1 {
+  color: #FFF;
+  font-size: 18px;
+}
+.social_media {
+  margin-right: 20px;
+}
+.social_media_anchor {
+  color: white;
+}
+.social_media_anchor:hover {
+  border-bottom: 2px solid white;
+}
+.media_img {
+  margin-left: 20px;
+  }
+.media_img a {
+  color: white;
+  font-size: 20px;
+  margin-top:10px;
+}
+.media_img_anchor:hover {
+  opacity: 0.5;
+}
